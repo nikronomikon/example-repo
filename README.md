@@ -1,1 +1,1 @@
-# example-repohttps://nikronomikon.github.io/examle-repo
+# https://nikronomikon.github.io/examle-repo
